@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+}
+
+.table {
+    width:90% ;
+    border: 0;
+    margin: auto;
+}
+
+.searchGoogle {
+    background-color: #EEEEEE;
+    
+}
+
+.content {
+    width: 37%;
+}
+
+.amargin {
+        float: right;
+        margin-right: 60px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+
+}
+
+footer {
+    margin-top: 16px;
+    font-size: 14px;
+}
