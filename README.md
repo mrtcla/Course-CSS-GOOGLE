@@ -1,6 +1,5 @@
-# v60 Demleme Tarif
+# Prepared 1998 Google Site And Now Google Site
 =======
-# Geliştirilmeye Devam Ediyor
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz CSS ödevi. Bu ödevde 1998 Google sitesini ve şuanki Google sitesini kodluyoruz.
 
